@@ -54,3 +54,15 @@
 <img src ="https://github.com/Hathaichanok241/LAB-03/blob/master/3.0.JPG?raw=true">
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+ตอบ ปัญหาคือ อ่านใบงาน ไม่เข้าใจ ไปเลือก
+<img src ="https://github.com/Hathaichanok241/LAB-03/blob/master/3.1.JPG?raw=true">
+
+แทนที่จะเลือก 
+<img src ="https://github.com/Hathaichanok241/LAB-03/blob/master/3.2.JPG?raw=true">
+
+ตามใบงานที่ 1 
+
+จึงทำให้ทำผิด และไม่สามารถ รันโปรแกรมได้ในตอนแรก  วิธีแก้คือ อ่านใบงานใหม่ และทำตาม 
+คือเลือก 
+<img src ="https://github.com/Hathaichanok241/LAB-03/blob/master/3.2.JPG?raw=true">
